@@ -6,8 +6,8 @@ Cards shuffle after every selection, so stay sharp!
 - React.js
 
 - Tailwind CSS
-
-### 🛠️ Installation
+  
+## 🛠️ Installation
 npm install
 
 ### ▶️ Start the App
